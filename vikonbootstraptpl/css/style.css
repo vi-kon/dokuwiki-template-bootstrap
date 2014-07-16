@@ -1,0 +1,50 @@
+.table.vertical-align-middle td,
+.table td.vertical-align-middle {
+    vertical-align: middle;
+}
+
+.page-header .row {
+    position: relative;
+}
+
+.page-header .search-form {
+    position: absolute;
+    bottom: 0;
+    right: 0;
+}
+
+.nav.nav-tabs {
+    margin-bottom: 15px;
+}
+
+.panel-navbar-toc.affix {
+    top: 10px;
+}
+
+.panel-navbar-toc .nav > li > a {
+    font-size: 13px;
+    padding: 4px 20px;
+}
+
+.panel-navbar-toc .nav > .active > a {
+    padding-left: 10px;
+    margin-left: 5px;
+    border-left: 5px solid #7a8288;
+}
+
+.panel-navbar-toc .nav .nav {
+    padding-bottom: 10px;
+    padding-left: 10px;
+    display: none;
+}
+
+.panel-navbar-toc .nav > li:hover > .nav,
+.panel-navbar-toc .nav > .active > .nav {
+    display: block;
+}
+
+.panel-navbar-toc .nav .nav > li > a {
+    font-size: 12px;
+    padding-top: 1px;
+    padding-bottom: 1px;
+}

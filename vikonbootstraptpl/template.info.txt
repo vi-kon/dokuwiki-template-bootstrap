@@ -1,0 +1,7 @@
+base     vikonbootstraptpl
+author   Kovács Vince
+email    vincekovacs@hotmail.com
+date     2014-07-06
+name     ViKon Bootstrap 3.2 template
+desc     The template based on Bootstrap 3.2
+url      https://www.dokuwiki.org/template:vikonbootstraptpl
